@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ValiNicula
 - 👀 I’m interested in Project Management. 
 - 🌱 I’m currently learning the basics : PRINCE2, AGILE, SCRUM, KANBAN.
-- 💞️ I’m passionate about technology and IT and learned a bit of code :) 
+- 💞️ I’m passionate about technology and IT and learned a bit of code :) ( html, css, Js, React, Bootstrap, JQuery, SASS ). 
 - 📫 Always available. 
 
 <!---
